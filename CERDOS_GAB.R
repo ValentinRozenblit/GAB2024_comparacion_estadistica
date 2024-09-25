@@ -10,7 +10,6 @@ library(ggplot2)
 library(psych)
 
 
-setwd("C:/Users/Admin/Desktop/GAB/GAB 2024/Resumenes/CERDOS")
 
 gab <- read_excel("BD.xlsx")
 gab
